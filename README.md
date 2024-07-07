@@ -1,2 +1,2 @@
-# recipe-app-api-v2
-Recipe API Demo app
+# recipe-app-api
+Recipe API Dev app
