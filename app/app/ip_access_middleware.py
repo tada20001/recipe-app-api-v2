@@ -2,6 +2,7 @@
 from django.http import HttpResponseForbidden
 import ipaddress
 
+
 class IPRangeMiddleware:
     """ # 192.168.1.x 범위를 허용"""
     ALLOWED_RANGES = [
